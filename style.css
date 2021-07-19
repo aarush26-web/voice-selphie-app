@@ -1,0 +1,16 @@
+body {
+    background: red;
+    color: navy;
+}
+
+.heading {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#camera {
+    border: 5px dashed brown;
+    width: 350px;
+    height: 350px;
+}
